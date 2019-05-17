@@ -1,0 +1,6 @@
+{
+  "name": "eslint-config-atolye15-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

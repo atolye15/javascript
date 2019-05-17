@@ -1,0 +1,32 @@
+{
+  "name": "atolye15-javascript-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ali İhsan <ali@atolye15.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atolye15/javascript"
+  },
+  "bugs": {
+    "url": "https://github.com/atolye15/javascript/issues"
+  },
+  "homepage": "https://github.com/atolye15/javascript",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "atolye15",
+    "javascript",
+    "styleguide",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "eslint": "^4.19.1 || ^5.3.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}

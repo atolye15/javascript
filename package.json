@@ -27,7 +27,6 @@
   ],
   "devDependencies": {
     "eslint": "^5.16.0",
-    "eslint-config-atolye15-base": "file:../eslint-config-atolye15-base",
     "lerna": "^3.14.1",
     "prettier": "^1.17.1"
   },
@@ -36,10 +35,12 @@
     "lerna:compile": "lerna run compile",
     "lerna:clean": "lerna run clean",
     "lerna:lint": "lerna run lint",
-    "lerna:test": "lerna run test"
+    "lerna:test": "lerna run test",
+    "lerna:bootstrap": "lerna bootstrap",
+    "lerna:create": "lerna create"
   },
   "dependencies": {
-    "eslint-config-atolye15": "file:packages/eslint-config-atolye15",
-    "eslint-config-atolye15-base": "file:packages/eslint-config-atolye15-base"
+    "eslint-config-atolye15": "1.0.0",
+    "eslint-config-atolye15-base": "1.0.0"
   }
 }

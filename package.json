@@ -26,6 +26,7 @@
     "typescript"
   ],
   "devDependencies": {
+    "eslint": "^5.16.0",
     "lerna": "^3.14.1",
     "prettier": "^1.17.1"
   }

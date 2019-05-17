@@ -4,6 +4,7 @@ node_modules
 
 # Only apps should have lockfiles
 yarn.lock
+yarn-error.log
 package-lock.json
 
 lerna-debug.log

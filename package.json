@@ -29,5 +29,12 @@
     "eslint": "^5.16.0",
     "lerna": "^3.14.1",
     "prettier": "^1.17.1"
+  },
+  "scripts": {
+    "lerna:link": "lerna link convert",
+    "lerna:compile": "lerna run compile",
+    "lerna:clean": "lerna run clean",
+    "lerna:lint": "lerna run lint",
+    "lerna:test": "lerna run test"
   }
 }

@@ -17,7 +17,6 @@ module.exports = {
   },
   "plugins": [
     "@typescript-eslint",
-    "jsx-a11y",
     "import",
     "prettier",
     "jest",
@@ -26,6 +25,5 @@ module.exports = {
   "rules": {
     "@typescript-eslint/indent": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
-    "prettier/prettier": ["error"]
   }
 }

@@ -30,3 +30,13 @@ npm install eslint-config-atolye15
 }
 
 ```
+
+# Supported Rules
+
+## 1. eslint-config-atolye15-base
+
+https://github.com/atolye15/javascript/eslint-config-atolye15-base
+
+## 2. eslint-plugin-react
+
+https://github.com/yannickcr/eslint-plugin-react

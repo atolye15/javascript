@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['eslint-config-atolye15-base'],
+  extends: ['@atolye15/eslint-config-base'],
   plugins: ['react'],
   rules: {
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],

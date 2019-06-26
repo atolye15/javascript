@@ -1,4 +1,4 @@
-# eslint-config-atolye15
+# @atolye15/eslint-config
 
 This package provides Atölye15's JS .eslintrc (with React plugins) as an extensible shared config.
 
@@ -9,13 +9,13 @@ Install the correct versions of package.
 Yarn
 
 ```bash
-yarn add @atolye15/eslint-config-atolye15 --dev
+yarn add @atolye15/eslint-config --dev
 ```
 
 Npm
 
 ```bash
-npm install @atolye15/eslint-config-atolye15 --save-dev
+npm install @atolye15/eslint-config --save-dev
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ npm install @atolye15/eslint-config-atolye15 --save-dev
 
 {
   "extends": [
-    "@atolye15/eslint-config-atolye15"
+    "@atolye15/eslint-config"
   ]
 }
 
@@ -33,9 +33,9 @@ npm install @atolye15/eslint-config-atolye15 --save-dev
 
 # Supported Rules
 
-## 1. eslint-config-atolye15-base
+## 1. @atolye15/eslint-config-base
 
-https://github.com/atolye15/javascript/eslint-config-atolye15-base
+https://github.com/atolye15/javascript/tree/master/packages/eslint-config-base
 
 ## 2. eslint-plugin-react
 

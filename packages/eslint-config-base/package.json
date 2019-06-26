@@ -1,6 +1,6 @@
 {
-  "name": "@atolye15/eslint-config-atolye15",
-  "description": "Atölye15's React JavaScript ESLint config, following our styleguide",
+  "name": "@atolye15/eslint-config-base",
+  "description": "Atölye15's base JavaScript ESLint config, following our styleguide",
   "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
@@ -26,13 +26,18 @@
     "es2016",
     "es2017",
     "es2018",
-    "typescript",
-    "react"
+    "typescript"
   ],
   "peerDependencies": {
-    "@atolye15/eslint-config-atolye15-base": "^1.0.0",
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
     "eslint": "^4.19.1 || ^5.16.0",
-    "eslint-plugin-react": "^7.12.4"
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-eslint-comments": "^3.1.1",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jest": "^22.4.1",
+    "eslint-plugin-jsx-a11y": "^6.2.1"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"
 }

@@ -30,8 +30,10 @@
     "react"
   ],
   "peerDependencies": {
-    "@atolye15/eslint-config-base": "^1.0.0",
     "eslint": "^4.19.1 || ^5.16.0",
+  },
+  "devDependencies": {
+    "@atolye15/eslint-config-base": "^1.0.0",
     "eslint-plugin-react": "^7.12.4"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"

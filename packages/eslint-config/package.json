@@ -30,7 +30,7 @@
     "react"
   ],
   "peerDependencies": {
-    "eslint": "^4.19.1 || ^5.16.0"
+    "eslint": "^5.0.0"
   },
   "dependencies": {
     "@atolye15/eslint-config-base": "^1.0.7",

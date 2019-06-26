@@ -1,7 +1,7 @@
 {
   "name": "@atolye15/eslint-config",
   "description": "Atölye15's React JavaScript ESLint config, following our styleguide",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -33,7 +33,7 @@
     "eslint": "^5.0.0"
   },
   "dependencies": {
-    "@atolye15/eslint-config-base": "^1.0.7",
+    "@atolye15/eslint-config-base": "^1.0.8",
     "eslint-plugin-react": "^7.12.4"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"

@@ -11,6 +11,9 @@
   "bugs": {
     "url": "https://github.com/atolye15/javascript/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/atolye15/javascript",
   "keywords": [
     "eslint",
@@ -30,5 +33,6 @@
     "eslint": "^4.19.1 || ^5.16.0",
     "eslint-config-atolye15-base": "^1.0.0",
     "eslint-plugin-react": "^7.12.4"
-  }
+  },
+  "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"
 }

@@ -1,7 +1,7 @@
 {
   "name": "@atolye15/eslint-config-base",
   "description": "Atölye15's base JavaScript ESLint config, following our styleguide",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "license": "MIT",
   "repository": {

@@ -32,7 +32,7 @@
   "peerDependencies": {
     "eslint": "^4.19.1 || ^5.16.0"
   },
-  "devDependencies": {
+  "dependencies": {
     "@atolye15/eslint-config-base": "^1.0.5",
     "eslint-plugin-react": "^7.12.4"
   },

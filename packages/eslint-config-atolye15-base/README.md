@@ -9,13 +9,13 @@ Install the correct versions of package.
 Yarn
 
 ```bash
-yarn add eslint-config-atolye15-base
+yarn add eslint-config-atolye15-base --dev
 ```
 
 Npm
 
 ```bash
-npm install eslint-config-atolye15-base
+npm install eslint-config-atolye15-base --save-dev
 ```
 
 ## Usage

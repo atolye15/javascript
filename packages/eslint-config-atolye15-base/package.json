@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-atolye15-base",
+  "name": "@atolye15/eslint-config-atolye15-base",
   "description": "Atölye15's base JavaScript ESLint config, following our styleguide",
   "version": "1.0.0",
   "main": "index.js",

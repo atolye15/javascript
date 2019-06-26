@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-atolye15",
+  "name": "@atolye15/eslint-config-atolye15",
   "description": "Atölye15's React JavaScript ESLint config, following our styleguide",
   "version": "1.0.0",
   "main": "index.js",

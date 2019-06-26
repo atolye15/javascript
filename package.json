@@ -1,8 +1,6 @@
 {
   "name": "atolye15-javascript-style",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Ali İhsan <ali@atolye15.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -38,9 +36,5 @@
     "lerna:test": "lerna run test",
     "lerna:bootstrap": "lerna bootstrap",
     "lerna:create": "lerna create"
-  },
-  "dependencies": {
-    "eslint-config-atolye15": "1.0.0",
-    "eslint-config-atolye15-base": "1.0.0"
   }
 }

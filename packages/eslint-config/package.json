@@ -29,11 +29,8 @@
     "typescript",
     "react"
   ],
-  "peerDependencies": {
-    "eslint": "^5.0.0"
-  },
   "dependencies": {
-    "@atolye15/eslint-config-base": "^1.0.9",
+    "@atolye15/eslint-config-base-typescript": "^1.0.9",
     "eslint-plugin-react": "^7.12.4"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"

@@ -33,9 +33,9 @@ npm install @atolye15/eslint-config --save-dev
 
 # Supported Rules
 
-## 1. @atolye15/eslint-config-base
+## 1. @atolye15/eslint-config-base-typescript
 
-https://github.com/atolye15/javascript/tree/master/packages/eslint-config-base
+https://github.com/atolye15/javascript/tree/master/packages/eslint-config-base-typescript
 
 ## 2. eslint-plugin-react
 

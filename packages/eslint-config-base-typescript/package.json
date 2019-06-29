@@ -1,7 +1,7 @@
 {
   "name": "@atolye15/eslint-config-base-typescript",
   "description": "Atölye15's base TypeScript ESLint config, following our styleguide",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -32,9 +32,9 @@
     "typescript": "^3.0.0"
   },
   "dependencies": {
+    "@atolye15/eslint-config-base": "^1.0.10",
     "@typescript-eslint/eslint-plugin": "^1.6.0",
-    "@typescript-eslint/parser": "^1.6.0",
-    "@atolye15/eslint-config-base": "^1.0.9"
+    "@typescript-eslint/parser": "^1.6.0"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"
 }

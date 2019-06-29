@@ -9,7 +9,7 @@ Install the correct versions of package.
 Yarn
 
 ```bash
-yarn add @atolye15/eslint-config-base --dev
+yarn add @atolye15/eslint-config-base-typescript --dev
 ```
 
 Npm

@@ -1,6 +1,6 @@
 # @atolye15/eslint-config
 
-This package provides Atölye15's JS .eslintrc (with React plugins) as an extensible shared config.
+This package provides Atölye15's JS `.eslintrc` (with React plugins) as an extensible shared config.
 
 ## Install
 
@@ -37,6 +37,14 @@ npm install @atolye15/eslint-config --save-dev
 
 https://github.com/atolye15/javascript/tree/master/packages/eslint-config-base-typescript
 
-## 2. eslint-plugin-react
+## 2. eslint-config-airbnb
+
+https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
+
+## 3. eslint-plugin-react
 
 https://github.com/yannickcr/eslint-plugin-react
+
+## 4. eslint-plugin-jsx-a11y
+
+https://www.npmjs.com/package/eslint-plugin-jsx-a11y

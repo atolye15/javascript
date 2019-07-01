@@ -1,6 +1,6 @@
 # Atölye15 Javascript Style Guide
 
-This package provides Atölye15's .eslintrc as an extensible shared config.
+This package provides Atölye15's `.eslintrc` as an extensible shared config.
 
 ## Usage
 

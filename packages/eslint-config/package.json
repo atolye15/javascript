@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "@atolye15/eslint-config-base-typescript": "^1.0.17",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.12.4"
   },

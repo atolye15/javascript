@@ -1,7 +1,7 @@
 {
   "name": "@atolye15/eslint-config-base-typescript",
   "description": "Atölye15's base TypeScript ESLint config, following our styleguide",
-  "version": "1.0.17",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -32,7 +32,7 @@
     "typescript": "^3.0.0"
   },
   "dependencies": {
-    "@atolye15/eslint-config-base": "^1.0.17",
+    "@atolye15/eslint-config-base": "^1.1.0",
     "@typescript-eslint/eslint-plugin": "^2.8.0",
     "@typescript-eslint/parser": "^2.8.0"
   },

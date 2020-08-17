@@ -31,14 +31,15 @@
   "peerDependencies": {
     "eslint": "^5.0.0",
     "prettier": "^1.0.0"
+    "prettier": "^2.0.5"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-prettier": "^6.7.0",
-    "eslint-plugin-eslint-comments": "^3.1.1",
-    "eslint-plugin-import": "^2.17.2",
-    "eslint-plugin-jest": "^23.0.4",
-    "eslint-plugin-prettier": "^3.1.0"
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.20.0",
+    "eslint-plugin-prettier": "^3.1.4"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"
 }

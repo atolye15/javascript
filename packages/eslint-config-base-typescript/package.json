@@ -32,7 +32,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@atolye15/eslint-config-base": "^1.1.1",
+    "@atolye15/eslint-config-base": "^1.1.2",
     "@typescript-eslint/eslint-plugin": "^3.9.0",
     "@typescript-eslint/parser": "^3.9.0"
   },

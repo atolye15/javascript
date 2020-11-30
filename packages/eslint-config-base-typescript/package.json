@@ -33,8 +33,8 @@
   },
   "dependencies": {
     "@atolye15/eslint-config-base": "^1.1.2",
-    "@typescript-eslint/eslint-plugin": "^3.9.0",
-    "@typescript-eslint/parser": "^3.9.0"
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"
 }

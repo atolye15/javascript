@@ -31,9 +31,9 @@
   ],
   "dependencies": {
     "@atolye15/eslint-config-base-typescript": "^1.2.0",
-    "eslint-config-airbnb": "^18.2.0",
-    "eslint-plugin-jsx-a11y": "^6.3.1",
-    "eslint-plugin-react": "^7.20.6"
+    "eslint-config-airbnb": "^19.0.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.1"
   },
   "gitHead": "e628585e9f7d48b6a3a30857415d166df24e668f"
 }

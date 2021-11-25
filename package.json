@@ -24,9 +24,9 @@
     "typescript"
   ],
   "devDependencies": {
-    "eslint": "^7.14.0",
-    "lerna": "^3.14.1",
-    "prettier": "^2.2.1"
+    "eslint": "^8.3.0",
+    "lerna": "^4.0.0",
+    "prettier": "^2.4.1"
   },
   "scripts": {
     "lerna:link": "lerna link convert",
